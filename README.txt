@@ -29,6 +29,7 @@ Mode 3: Versus Mode (PvAI)
 Statement: This is the competitive mode (Player vs. AI).
 
 4. DIRECT EXECUTABLE FILE (.EXE)
-Statement: If the instructor prefers not to install Python, a standalone executable file (.exe) is provided in the "Executable" folder.
+Statement: If the instructor prefers not to install Python, you can dowload the game by extract this following file because file exe too large can not up to github
+https://drive.google.com/file/d/1aAcGsNH0782SU9ljRh2LUZq8ChVff_lt/view?usp=sharing
 
-Statement: The game can be launched immediately by simply clicking this file.
+Statement: The game can be launched immediately after dowload and extract this file.
